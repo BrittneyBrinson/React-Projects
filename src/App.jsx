@@ -6,6 +6,7 @@ function App() {
   return (
     <div>
         <h1>Hello,World</h1>
+        <h2>Brittney is an amazing software developer</h2>
     </div>
   );
 }
